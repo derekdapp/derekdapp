@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑🏻‍💻 About Me:
 
 I like to develop and design.<br>I like React and React Native.<br>I like Ruby on Rails.<br>I like learning new things.<br>I love cats.
 
